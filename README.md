@@ -1,16 +1,16 @@
 # eJPT-Notes
 
-# 🛡️ My eJPT Journey: A Complete Study Guide
+# 🛡️ My eJPT Journey: A Complete Study Guide & Personal Notes
 
-Welcome to my personal study repository for the eJPT certification! This collection serves as a digital notebook, documenting the entire penetration testing roadmap from reconnaissance to post-exploitation.
+Welcome to my personal digital notebook created while preparing for the **eLearnSecurity Junior Penetration Tester (eJPT)** certification. This repository serves as a structured and topic-wise guide that documents the **entire penetration testing process** — from reconnaissance to post-exploitation.
 
-Dive in, explore the notes, and happy hacking!
+> 📌 **Disclaimer:** These notes are meant strictly for **educational purposes** and ethical learning. Always ensure you have **explicit written permission** before performing any security assessment or penetration test on any system or network.
 
 ---
 
 ## 🗺️ Study Roadmap & Index
 
-Here is the complete, ordered list of topics. Click on any topic to go directly to the notes for that section.
+Below is the complete and organized roadmap that reflects the official eJPT domains. Click on any topic to jump directly to its detailed notes:
 
 | # | Topic |
 | :--- | :--- |
@@ -30,8 +30,20 @@ Here is the complete, ordered list of topics. Click on any topic to go directly 
 
 ---
 
-### A Note on Ethical Hacking
+## 🧠 About These Notes
 
-The knowledge and tools in this repository are for educational purposes and ethical use only. Always ensure you have explicit, written permission before conducting any security testing on a system or network.
+This repository contains my **personal study notes**, compiled during my preparation journey. These notes are not official content from eLearnSecurity or INE, but rather my interpretations, summaries, and practical insights collected during labs, practice sessions, and reading.
 
-**Good luck to all fellow students! ⭐**
+🔁 **Corrections Welcome:**  
+As these notes are for personal use, there may be **mistakes or incomplete explanations**. If you find any errors or feel something needs better clarification, **feel free to raise an issue or submit a pull request**. I'm always happy to improve and learn with the community!
+
+🙏 **Apologies in Advance:**  
+If you come across any inaccuracies or poorly explained sections, I sincerely apologize. These notes are written from a learner’s perspective and are constantly evolving.
+
+---
+
+## 🚀 Happy Hacking!
+
+Whether you're just starting your penetration testing journey or brushing up for your eJPT exam, I hope these notes help guide you through the core concepts and practical skills. Feel free to fork, share, or contribute!
+
+> ⭐ **Good luck to all fellow learners! Let's grow together in this ethical hacking journey.**
